@@ -2,7 +2,7 @@
 - 👀 I’m interested in Project management with GenAI.
 - 🌱 I’m currently learning GenAI.
 - 💞️ I’m looking to collaborate on community operation and project management on open source projects.
-- 📫 How to reach me: willway99@126.com
+- 📫 How to reach me: bowei_2015@126.com
 - 😄 Pronouns: Janice
 - ⚡ Fun fact: reading :)
 
